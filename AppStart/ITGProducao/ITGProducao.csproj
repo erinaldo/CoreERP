@@ -1,0 +1,573 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{88B42CF7-8888-4BF2-9C35-F53D3B55144B}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ITGProducao</RootNamespace>
+    <AssemblyName>ITGProducao</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AppLib, Version=0.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AppLib\AppLib\bin\Debug\AppLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Data.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Pdf.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v19.1.Export, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Sparkline.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraScheduler.v19.1.Reporting.Extensions, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraScheduler.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PS.Glb, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\EXTERNOS\PS.Glb\bin\Debug\PS.Glb.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Class1.cs" />
+    <Compile Include="Class\ClsSeqOP.cs" />
+    <Compile Include="Class\Global.cs" />
+    <Compile Include="Controles\NewLookup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Controles\NewLookup.Designer.cs">
+      <DependentUpon>NewLookup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Controles\NewTextEdit.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroCalendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroCalendario.Designer.cs">
+      <DependentUpon>FrmFiltroCalendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroCentroCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroCentroCusto.Designer.cs">
+      <DependentUpon>FrmFiltroCentroCusto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroCentroTrabalho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroCentroTrabalho.Designer.cs">
+      <DependentUpon>FrmFiltroCentroTrabalho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroEstrutura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroEstrutura.Designer.cs">
+      <DependentUpon>FrmFiltroEstrutura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroGrupoRecurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroGrupoRecurso.Designer.cs">
+      <DependentUpon>FrmFiltroGrupoRecurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroMarca.Designer.cs">
+      <DependentUpon>FrmFiltroMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroOperacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroOperacao.Designer.cs">
+      <DependentUpon>FrmFiltroOperacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroOrdemMotivoParada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroOrdemMotivoParada.Designer.cs">
+      <DependentUpon>FrmFiltroOrdemMotivoParada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroOrdemProducao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroOrdemProducao.Designer.cs">
+      <DependentUpon>FrmFiltroOrdemProducao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroRecurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroRecurso.Designer.cs">
+      <DependentUpon>FrmFiltroRecurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroUnidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Filtros\FrmFiltroUnidade.Designer.cs">
+      <DependentUpon>FrmFiltroUnidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmCalendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmCalendario.Designer.cs">
+      <DependentUpon>FrmCalendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmCentroCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmCentroCusto.Designer.cs">
+      <DependentUpon>FrmCentroCusto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmCentroTrabalho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmCentroTrabalho.Designer.cs">
+      <DependentUpon>FrmCentroTrabalho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmCentroTrabalhoCalendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmCentroTrabalhoCalendario.Designer.cs">
+      <DependentUpon>FrmCentroTrabalhoCalendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmCentroTrabalhoCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmCentroTrabalhoCusto.Designer.cs">
+      <DependentUpon>FrmCentroTrabalhoCusto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmComponenteSubstituto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmComponenteSubstituto.Designer.cs">
+      <DependentUpon>FrmComponenteSubstituto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmEstrutura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmEstrutura.Designer.cs">
+      <DependentUpon>FrmEstrutura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaDescricaoAuxiliar.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaDescricaoAuxiliar.Designer.cs">
+      <DependentUpon>FrmEstruturaDescricaoAuxiliar.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaEstoque.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaEstoque.Designer.cs">
+      <DependentUpon>FrmEstruturaEstoque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaRecurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaRecurso.Designer.cs">
+      <DependentUpon>FrmEstruturaRecurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaRecursoComponentes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaRecursoComponentes.Designer.cs">
+      <DependentUpon>FrmEstruturaRecursoComponentes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaTempoIntervalo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmEstruturaTempoIntervalo.Designer.cs">
+      <DependentUpon>FrmEstruturaTempoIntervalo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmExemploNewLookup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmExemploNewLookup.Designer.cs">
+      <DependentUpon>FrmExemploNewLookup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmGrupoRecurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmGrupoRecurso.Designer.cs">
+      <DependentUpon>FrmGrupoRecurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmGrupoRecursoCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmGrupoRecursoCusto.Designer.cs">
+      <DependentUpon>FrmGrupoRecursoCusto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmMarca.Designer.cs">
+      <DependentUpon>FrmMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmOperacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmOperacao.Designer.cs">
+      <DependentUpon>FrmOperacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemMotivoParada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemMotivoParada.Designer.cs">
+      <DependentUpon>FrmOrdemMotivoParada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemProducao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemProducao.Designer.cs">
+      <DependentUpon>FrmOrdemProducao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemProducaoApontamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemProducaoApontamento.Designer.cs">
+      <DependentUpon>FrmOrdemProducaoApontamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemProducaoEntradas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemProducaoEntradas.Designer.cs">
+      <DependentUpon>FrmOrdemProducaoEntradas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemProducaoNecessidadeMP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmOrdemProducaoNecessidadeMP.Designer.cs">
+      <DependentUpon>FrmOrdemProducaoNecessidadeMP.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmRecurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmRecurso.Designer.cs">
+      <DependentUpon>FrmRecurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmTerminalApontamento.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmTerminalApontamento.Designer.cs">
+      <DependentUpon>FrmTerminalApontamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Formularios\FrmUnidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Formularios\FrmUnidade.Designer.cs">
+      <DependentUpon>FrmUnidade.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoCalendario.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoCalendario.Designer.cs">
+      <DependentUpon>FrmVisaoCalendario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoCentroCusto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoCentroCusto.Designer.cs">
+      <DependentUpon>FrmVisaoCentroCusto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoCentroTrabalho.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoCentroTrabalho.Designer.cs">
+      <DependentUpon>FrmVisaoCentroTrabalho.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoComponenteSubstituto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoComponenteSubstituto.Designer.cs">
+      <DependentUpon>FrmVisaoComponenteSubstituto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoEstrutura.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoEstrutura.Designer.cs">
+      <DependentUpon>FrmVisaoEstrutura.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoFiliais.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoFiliais.Designer.cs">
+      <DependentUpon>FrmVisaoFiliais.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoGrupoRecurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoGrupoRecurso.Designer.cs">
+      <DependentUpon>FrmVisaoGrupoRecurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoMarca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoMarca.Designer.cs">
+      <DependentUpon>FrmVisaoMarca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoOperacao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoOperacao.Designer.cs">
+      <DependentUpon>FrmVisaoOperacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoOrdemMotivoParada.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoOrdemMotivoParada.Designer.cs">
+      <DependentUpon>FrmVisaoOrdemMotivoParada.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoOrdemProducao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoOrdemProducao.Designer.cs">
+      <DependentUpon>FrmVisaoOrdemProducao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoRecurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoRecurso.Designer.cs">
+      <DependentUpon>FrmVisaoRecurso.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoUnidade.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Visao\FrmVisaoUnidade.Designer.cs">
+      <DependentUpon>FrmVisaoUnidade.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Controles\NewLookup.resx">
+      <DependentUpon>NewLookup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroCalendario.resx">
+      <DependentUpon>FrmFiltroCalendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroCentroCusto.resx">
+      <DependentUpon>FrmFiltroCentroCusto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroCentroTrabalho.resx">
+      <DependentUpon>FrmFiltroCentroTrabalho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroEstrutura.resx">
+      <DependentUpon>FrmFiltroEstrutura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroGrupoRecurso.resx">
+      <DependentUpon>FrmFiltroGrupoRecurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroMarca.resx">
+      <DependentUpon>FrmFiltroMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroOperacao.resx">
+      <DependentUpon>FrmFiltroOperacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroOrdemMotivoParada.resx">
+      <DependentUpon>FrmFiltroOrdemMotivoParada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroOrdemProducao.resx">
+      <DependentUpon>FrmFiltroOrdemProducao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroRecurso.resx">
+      <DependentUpon>FrmFiltroRecurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Filtros\FrmFiltroUnidade.resx">
+      <DependentUpon>FrmFiltroUnidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmCalendario.resx">
+      <DependentUpon>FrmCalendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmCentroCusto.resx">
+      <DependentUpon>FrmCentroCusto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmCentroTrabalho.resx">
+      <DependentUpon>FrmCentroTrabalho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmCentroTrabalhoCalendario.resx">
+      <DependentUpon>FrmCentroTrabalhoCalendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmCentroTrabalhoCusto.resx">
+      <DependentUpon>FrmCentroTrabalhoCusto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmComponenteSubstituto.resx">
+      <DependentUpon>FrmComponenteSubstituto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmEstrutura.resx">
+      <DependentUpon>FrmEstrutura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmEstruturaDescricaoAuxiliar.resx">
+      <DependentUpon>FrmEstruturaDescricaoAuxiliar.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmEstruturaEstoque.resx">
+      <DependentUpon>FrmEstruturaEstoque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmEstruturaRecurso.resx">
+      <DependentUpon>FrmEstruturaRecurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmEstruturaRecursoComponentes.resx">
+      <DependentUpon>FrmEstruturaRecursoComponentes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmEstruturaTempoIntervalo.resx">
+      <DependentUpon>FrmEstruturaTempoIntervalo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmExemploNewLookup.resx">
+      <DependentUpon>FrmExemploNewLookup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmGrupoRecurso.resx">
+      <DependentUpon>FrmGrupoRecurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmGrupoRecursoCusto.resx">
+      <DependentUpon>FrmGrupoRecursoCusto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmMarca.resx">
+      <DependentUpon>FrmMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmOperacao.resx">
+      <DependentUpon>FrmOperacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmOrdemMotivoParada.resx">
+      <DependentUpon>FrmOrdemMotivoParada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmOrdemProducao.resx">
+      <DependentUpon>FrmOrdemProducao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmOrdemProducaoApontamento.resx">
+      <DependentUpon>FrmOrdemProducaoApontamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmOrdemProducaoEntradas.resx">
+      <DependentUpon>FrmOrdemProducaoEntradas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmOrdemProducaoNecessidadeMP.resx">
+      <DependentUpon>FrmOrdemProducaoNecessidadeMP.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmRecurso.resx">
+      <DependentUpon>FrmRecurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmTerminalApontamento.resx">
+      <DependentUpon>FrmTerminalApontamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Formularios\FrmUnidade.resx">
+      <DependentUpon>FrmUnidade.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoCalendario.resx">
+      <DependentUpon>FrmVisaoCalendario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoCentroCusto.resx">
+      <DependentUpon>FrmVisaoCentroCusto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoCentroTrabalho.resx">
+      <DependentUpon>FrmVisaoCentroTrabalho.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoComponenteSubstituto.resx">
+      <DependentUpon>FrmVisaoComponenteSubstituto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoEstrutura.resx">
+      <DependentUpon>FrmVisaoEstrutura.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoFiliais.resx">
+      <DependentUpon>FrmVisaoFiliais.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoGrupoRecurso.resx">
+      <DependentUpon>FrmVisaoGrupoRecurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoMarca.resx">
+      <DependentUpon>FrmVisaoMarca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoOperacao.resx">
+      <DependentUpon>FrmVisaoOperacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoOrdemMotivoParada.resx">
+      <DependentUpon>FrmVisaoOrdemMotivoParada.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoOrdemProducao.resx">
+      <DependentUpon>FrmVisaoOrdemProducao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoRecurso.resx">
+      <DependentUpon>FrmVisaoRecurso.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Visao\FrmVisaoUnidade.resx">
+      <DependentUpon>FrmVisaoUnidade.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ITINIT.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\EXTERNOS\PS.Lib.WinForms\PS.Lib.WinForms.csproj">
+      <Project>{f4ab06f4-9b86-42e6-8d2b-800c1220dc92}</Project>
+      <Name>PS.Lib.WinForms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\EXTERNOS\PS.Lib\PS.Lib.csproj">
+      <Project>{bd334765-1307-48bf-ad59-358b2baac93d}</Project>
+      <Name>PS.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Alias>
+    <host>192.168.0.191</host> <!--IP do server-->
+    <port>1433</port> <!--Porta de serviço-->
+    <instance>CoreERP_Teste</instance> <!--Instancia padrao-->
+    <user>sa</user> <!--Usuario de conexao-->
+    <password>masterkey</password> <!--Senha de conexao-->
+    <timeout>30</timeout> <!--Tempo limite de execucao de uma operacao-->
+    <type>sqlExterno</type> <!--Local/sqlExterno-->
+</Alias>

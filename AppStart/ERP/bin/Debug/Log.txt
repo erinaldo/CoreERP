@@ -1,0 +1,107 @@
+29/03/2019 15:24:14: Comando: SELECT * FROM ( SELECT * FROM ZPRACA 
+ ) X WHERE 0=1 
+Invalid object name 'ZPRACA'.
+29/03/2019 15:27:21: Comando: SELECT * FROM ( SELECT * FROM ZPRACA 
+ ) X WHERE 0=1 
+Invalid object name 'ZPRACA'.
+19/04/2019 10:02:09: Comando: SELECT * FROM ( SELECT * FROM ZCLIENTE 
+ ) X WHERE 0=1 
+Invalid object name 'ZCLIENTE'.
+19/04/2019 10:18:10: Comando: SELECT * FROM ( SELECT * FROM ZCONTATO 
+ ) X WHERE 0=1 
+Invalid object name 'ZCONTATO'.
+19/04/2019 19:49:12: Comando: SELECT * FROM ( SELECT * FROM ZCLIENTE 
+ ) X WHERE 0=1 
+Invalid object name 'ZCLIENTE'.
+19/04/2019 19:55:31: Comando: SELECT * FROM ( SELECT * FROM (select * from APROJETO where IDUNIDADE = 'PALINI ALVES LTDA - PINHAL') 
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+19/04/2019 19:57:42: Comando: SELECT * FROM ( SELECT * FROM (select * from APROJETO where IDUNIDADE = '9') 
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+19/04/2019 20:06:10: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+19/04/2019 20:06:40: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+19/04/2019 20:39:11: Comando: SELECT * FROM ( SELECT * FROM ZTAREFA 
+ ) X WHERE 0=1 
+Invalid object name 'ZTAREFA'.
+19/04/2019 20:40:31: Comando: SELECT * FROM ( SELECT * FROM ZTAREFA 
+ ) X WHERE 0=1 
+Invalid object name 'ZTAREFA'.
+19/04/2019 20:45:44: Comando: SELECT * FROM ( SELECT * FROM ZTAREFA 
+ ) X WHERE 0=1 
+Invalid object name 'ZTAREFA'.
+19/04/2019 20:46:21: Comando: SELECT * FROM ( SELECT * FROM ZTAREFA 
+ ) X WHERE 0=1 
+Invalid object name 'ZTAREFA'.
+19/04/2019 20:48:21: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+18/06/2019 09:56:11: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+28/05/2021 15:02:53: Comando: SELECT * FROM ( SELECT * FROM SELECT DISTINCT CODUSUARIO, NOME FROM GUSUARIO WHERE ATIVO = 1 
+ ) X WHERE 0=1 
+Incorrect syntax near the keyword 'SELECT'.
+Incorrect syntax near ')'.
+28/05/2021 15:03:40: Comando: SELECT * FROM ( SELECT * FROM SELECT CODUSUARIO, NOME FROM GUSUARIO WHERE ATIVO = 1 
+ ) X WHERE 0=1 
+Incorrect syntax near the keyword 'SELECT'.
+Incorrect syntax near ')'.
+28/05/2021 15:04:09: Comando: SELECT * FROM ( SELECT * FROM (SELECT CODUSUARIO, NOME FROM GUSUARIO WHERE ATIVO = 1) 
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+28/05/2021 15:06:25: Comando: SELECT * FROM ( SELECT * FROM (SELECT CODUSUARIO, NOME FROM GUSUARIO WHERE ATIVO = 1) 
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+30/06/2021 16:31:45: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+02/08/2021 16:49:59: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+02/08/2021 16:51:20: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+02/08/2021 16:51:24: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+02/08/2021 16:51:50: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+02/08/2021 16:51:54: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+02/08/2021 16:51:59: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+02/08/2021 16:58:47: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+02/08/2021 16:58:58: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+02/08/2021 16:59:06: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+14/08/2021 18:31:23: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+14/08/2021 18:31:28: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+19/08/2021 11:00:34: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+19/08/2021 11:00:41: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+19/08/2021 11:00:49: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.
+23/08/2021 10:37:00: Comando: SELECT * FROM ( SELECT * FROM  
+ ) X WHERE 0=1 
+Incorrect syntax near ')'.

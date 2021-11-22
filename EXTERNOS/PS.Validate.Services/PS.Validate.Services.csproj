@@ -1,0 +1,253 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{7DBA8FB1-EBD4-4C3A-B679-D46D522B7055}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PS.Validate.Services</RootNamespace>
+    <AssemblyName>PS.Validate.Services</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="7zSharp, Version=1.0.3.0, Culture=neutral, PublicKeyToken=aa6a31abd3bf9e52, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll_ValidateLIb\7zSharp.dll</HintPath>
+    </Reference>
+    <Reference Include="AppLib, Version=0.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AppLib\AppLib\bin\Debug\AppLib.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenPop, Version=2.0.6.1102, Culture=neutral, PublicKeyToken=6bdb97f144b7efc8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>dll_ValidateLIb\OpenPop.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Connected Services\WSConsultaCTe\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\WSConsultaDistribuicaoNFe\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\WSConsultaNFe\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\WSGinfes\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\WSNFeAutorizacao\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\WSNFeRetAutorizacao\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\WSRecepcaoEventoNFe\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\WSStatusServicoCTe\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="Connected Services\WSStatusServicoNFe\Reference.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </Compile>
+    <Compile Include="ConsultaEventos.cs" />
+    <Compile Include="NFeSrv.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AppValidate\SOLUCAO\ValidateLib\ValidateLib.csproj">
+      <Project>{6a76a843-f96d-499a-aba1-c79c8db7740a}</Project>
+      <Name>ValidateLib</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PS.Lib\PS.Lib.csproj">
+      <Project>{bd334765-1307-48bf-ad59-358b2baac93d}</Project>
+      <Name>PS.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Connected Services\WSGinfes\ServiceGinfesImplService.wsdl" />
+    <None Include="Connected Services\WSNFeAutorizacao\PS.Validate.Services.WSNFeAutorizacao.nfeCabecMsg.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WSNFeAutorizacao\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\WSNFeAutorizacao\configuration.svcinfo" />
+    <None Include="Connected Services\WSNFeAutorizacao\configuration91.svcinfo" />
+    <None Include="Connected Services\WSNFeAutorizacao\nfeautorizacao.disco" />
+    <None Include="Connected Services\WSNFeAutorizacao\nfeautorizacao.wsdl" />
+    <None Include="Connected Services\WSNFeRetAutorizacao\PS.Validate.Services.WSNFeRetAutorizacao.nfeCabecMsg.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WSNFeRetAutorizacao\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\WSNFeRetAutorizacao\configuration.svcinfo" />
+    <None Include="Connected Services\WSNFeRetAutorizacao\configuration91.svcinfo" />
+    <None Include="Connected Services\WSNFeRetAutorizacao\nferetautorizacao.disco" />
+    <None Include="Connected Services\WSConsultaNFe\PS.Validate.Services.WSConsultaNFe.nfeCabecMsg.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WSConsultaNFe\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\WSConsultaNFe\configuration.svcinfo" />
+    <None Include="Connected Services\WSConsultaNFe\configuration91.svcinfo" />
+    <None Include="Connected Services\WSConsultaNFe\nfeconsulta2.disco" />
+    <None Include="Connected Services\WSConsultaNFe\nfeconsulta2.wsdl" />
+    <None Include="Connected Services\WSNFeRetAutorizacao\nferetautorizacao.wsdl" />
+    <None Include="Connected Services\WSStatusServicoCTe\cteStatusServico.wsdl" />
+    <None Include="Connected Services\WSStatusServicoCTe\PS.Validate.Services.WSStatusServicoCTe.cteCabecMsg.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WSStatusServicoNFe\PS.Validate.Services.WSStatusServicoNFe.nfeCabecMsg.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WSStatusServicoNFe\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\WSStatusServicoNFe\configuration.svcinfo" />
+    <None Include="Connected Services\WSStatusServicoNFe\configuration91.svcinfo" />
+    <None Include="Connected Services\WSStatusServicoNFe\nfestatusservico2.disco" />
+    <None Include="Connected Services\WSRecepcaoEventoNFe\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\WSRecepcaoEventoNFe\configuration.svcinfo" />
+    <None Include="Connected Services\WSRecepcaoEventoNFe\configuration91.svcinfo" />
+    <None Include="Connected Services\WSRecepcaoEventoNFe\RecepcaoEvento.disco" />
+    <None Include="Connected Services\WSConsultaDistribuicaoNFe\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\WSConsultaDistribuicaoNFe\configuration.svcinfo" />
+    <None Include="Connected Services\WSConsultaDistribuicaoNFe\configuration91.svcinfo" />
+    <None Include="Connected Services\WSConsultaDistribuicaoNFe\NFeDistribuicaoDFe.disco" />
+    <None Include="Connected Services\WSConsultaCTe\PS.Validate.Services.WSConsultaCTe.cteCabecMsg.datasource">
+      <DependentUpon>Reference.svcmap</DependentUpon>
+    </None>
+    <None Include="Connected Services\WSConsultaCTe\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\WSConsultaCTe\configuration.svcinfo" />
+    <None Include="Connected Services\WSConsultaCTe\configuration91.svcinfo" />
+    <None Include="Connected Services\WSConsultaCTe\cteConsulta.disco" />
+    <None Include="Connected Services\WSStatusServicoCTe\cteStatusServico.disco" />
+    <None Include="Connected Services\WSStatusServicoCTe\configuration91.svcinfo" />
+    <None Include="Connected Services\WSStatusServicoCTe\configuration.svcinfo" />
+    <None Include="Connected Services\WSStatusServicoCTe\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <None Include="Connected Services\WSGinfes\configuration91.svcinfo" />
+    <None Include="Connected Services\WSGinfes\configuration.svcinfo" />
+    <None Include="Connected Services\WSGinfes\Reference.svcmap">
+      <Generator>WCF Proxy Generator</Generator>
+      <LastGenOutput>Reference.cs</LastGenOutput>
+    </None>
+    <Content Include="dll_ValidateLIb\7zSharp.dll" />
+    <Content Include="dll_ValidateLIb\OpenPop.dll" />
+    <Content Include="obj_ValidateLIb\Debug\ValidateLib.csproj.FileListAbsolute.txt" />
+    <Content Include="obj_ValidateLIb\Debug\ValidateLib.dll" />
+    <Content Include="obj_ValidateLIb\Debug\ValidateLib.pdb" />
+    <None Include="Connected Services\WSConsultaDistribuicaoNFe\NFeDistribuicaoDFe.wsdl" />
+    <None Include="Connected Services\WSRecepcaoEventoNFe\RecepcaoEvento.wsdl" />
+    <None Include="Connected Services\WSStatusServicoNFe\nfestatusservico2.wsdl" />
+    <None Include="Properties\DataSources\System.Xml.Linq.XElement.datasource" />
+    <None Include="Properties\DataSources\System.Xml.XmlNode.datasource" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="app.config" />
+    <None Include="Connected Services\WSConsultaCTe\cteConsulta.wsdl" />
+    <None Include="obj_ValidateLIb\Debug\CoreCompileInputs.cache" />
+    <None Include="obj_ValidateLIb\Debug\DesignTimeResolveAssemblyReferencesInput.cache" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="obj_ValidateLIb\Debug\TempPE\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadataStorage Include="Connected Services\WSConsultaCTe\" />
+    <WCFMetadataStorage Include="Connected Services\WSConsultaDistribuicaoNFe\" />
+    <WCFMetadataStorage Include="Connected Services\WSConsultaNFe\" />
+    <WCFMetadataStorage Include="Connected Services\WSGinfes\" />
+    <WCFMetadataStorage Include="Connected Services\WSNFeAutorizacao\" />
+    <WCFMetadataStorage Include="Connected Services\WSNFeRetAutorizacao\" />
+    <WCFMetadataStorage Include="Connected Services\WSRecepcaoEventoNFe\" />
+    <WCFMetadataStorage Include="Connected Services\WSStatusServicoCTe\" />
+    <WCFMetadataStorage Include="Connected Services\WSStatusServicoNFe\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

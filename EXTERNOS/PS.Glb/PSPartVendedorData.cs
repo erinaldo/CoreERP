@@ -1,0 +1,43 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+
+namespace PS.Glb
+{
+    public class PSPartVendedorData : PS.Lib.WinForms.PSPartData
+    {
+        public override string ReadView()
+        {
+            return @"SELECT
+CODEMPRESA,
+CODVENDEDOR,
+NOME,
+NOMEFANTASIA,
+TIPO,
+CNPJCPF,
+ATIVO,
+CEP,
+CODTIPORUA,
+RUA,
+NUMERO,
+COMPLEMENTO,
+CODTIPOBAIRRO,
+BAIRRO,
+CODCIDADE,
+(SELECT NOME FROM GCIDADE WHERE CODETD = VVENDEDOR.CODETD AND CODCIDADE = VVENDEDOR.CODCIDADE) CCIDADE,
+CODETD,
+CODPAIS,
+TELEFONE,
+TELCELULAR,
+TELFAX,
+CONTATO,
+HOMEPAGE,
+EMAIL,
+INSCRICAOESTADUAL,
+PRCOMISSAO,
+CODUSUARIO
+FROM VVENDEDOR WHERE ";
+        }
+    }
+}

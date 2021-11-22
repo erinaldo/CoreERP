@@ -1,0 +1,21 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ERP.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="codUsuario" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ff</Value>
+    </Setting>
+    <Setting Name="START_BancoCentral_FachadaWSSGSService" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">https://www3.bcb.gov.br/wssgs/services/FachadaWSSGS</Value>
+    </Setting>
+    <Setting Name="TipoGestaoMemoria" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="QuantGestaoMemoria" Type="System.String" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="Usuario" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+  </Settings>
+</SettingsFile>

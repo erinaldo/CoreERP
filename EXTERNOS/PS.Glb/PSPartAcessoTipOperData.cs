@@ -1,0 +1,34 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace PS.Glb
+{
+    public class PSPartAcessoTipOperData : PS.Lib.WinForms.PSPartData
+    {
+        public override string ReadView()
+        {
+            return @"SELECT 
+CODEMPRESA,
+CODPERFIL,
+CODTIPOPER, 
+(SELECT DESCRICAO FROM GTIPOPER WHERE CODEMPRESA = GPERFILTIPOPER.CODEMPRESA AND CODTIPOPER = GPERFILTIPOPER.CODTIPOPER) DESCRICAO,
+INCLUIR, 
+EXCLUIR, 
+ALTERAR, 
+FATURAR, 
+INCLUIRFAT, 
+CONSULTAR,
+CANCELAR,
+CONCLUIR,
+APROVADESCONTO,
+APROVALIMITECREDITO, 
+GERARBOLETO,
+REPROVAR,
+APROVAR
+FROM 
+GPERFILTIPOPER 
+WHERE ";
+        }
+    }
+}

@@ -1,0 +1,190 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8734ADC9-788A-47AE-AD9C-6AD9FB1A36F0}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PS.Glb.Reports</RootNamespace>
+    <AssemblyName>PS.Glb.Reports</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="BarcodeLib">
+      <HintPath>..\..\SETUP\BarcodeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v17.2.Export, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraCharts.v17.2.Wizard, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v17.2.UI, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="canhoto.cs" />
+    <Compile Include="XrDanfe.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrDanfe.designer.cs">
+      <DependentUpon>XrDanfe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="item.cs" />
+    <Compile Include="parametro.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StReportDacte.cs" />
+    <Compile Include="StReportDacteApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportDacteApp.Designer.cs">
+      <DependentUpon>StReportDacteApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportDactePaisagem.cs" />
+    <Compile Include="StReportDactePaisagemApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportDactePaisagemApp.Designer.cs">
+      <DependentUpon>StReportDactePaisagemApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportDanfe.cs" />
+    <Compile Include="StReportDanfeApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportDanfeApp.Designer.cs">
+      <DependentUpon>StReportDanfeApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportDanfePaisagem.cs" />
+    <Compile Include="StReportDanfePaisamgemApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportDanfePaisamgemApp.Designer.cs">
+      <DependentUpon>StReportDanfePaisamgemApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrDacte.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrDacte.designer.cs">
+      <DependentUpon>XrDacte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrDactePaisagem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrDactePaisagem.designer.cs">
+      <DependentUpon>XrDactePaisagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrDanfePaisagem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrDanfePaisagem.designer.cs">
+      <DependentUpon>XrDanfePaisagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrRelComponentesPrestacao.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrRelComponentesPrestacao.designer.cs">
+      <DependentUpon>XrRelComponentesPrestacao.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="XrDanfe.resx">
+      <DependentUpon>XrDanfe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportDacteApp.resx">
+      <DependentUpon>StReportDacteApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportDactePaisagemApp.resx">
+      <DependentUpon>StReportDactePaisagemApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportDanfeApp.resx">
+      <DependentUpon>StReportDanfeApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrDacte.resx">
+      <DependentUpon>XrDacte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrDactePaisagem.resx">
+      <DependentUpon>XrDactePaisagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrDanfePaisagem.resx">
+      <DependentUpon>XrDanfePaisagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrRelComponentesPrestacao.resx">
+      <DependentUpon>XrRelComponentesPrestacao.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dll\BarcodeLib.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\EXTERNOS\PS.Lib.WinForms\PS.Lib.WinForms.csproj">
+      <Project>{f4ab06f4-9b86-42e6-8d2b-800c1220dc92}</Project>
+      <Name>PS.Lib.WinForms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\EXTERNOS\PS.Lib\PS.Lib.csproj">
+      <Project>{bd334765-1307-48bf-ad59-358b2baac93d}</Project>
+      <Name>PS.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

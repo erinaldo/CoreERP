@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-16"?>
+<AliasList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <AliasGroup>
+    <Alias>
+      <Name>CoreERP_Teste</Name>
+      <DbType>SqlServer</DbType>
+      <DbProviderType>SQLOleDb</DbProviderType>
+      <ServerName>192.168.73.11</ServerName>
+      <DbName>CoreERP_Teste</DbName>
+      <UserName>sa</UserName>
+      <Password>7Rl0XVVTSycSEFLLIbItmA==</Password>
+      <SyncService>false</SyncService>
+    </Alias>
+  </AliasGroup>
+</AliasList>

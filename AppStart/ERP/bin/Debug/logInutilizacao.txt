@@ -1,0 +1,18 @@
+13/06/2018 14:15 (IT-DES01)CARTA DE CORREÇÃO
+13/06/2018 14:15 (IT-DES01){"X-AUTH-TOKEN": "SVQgSU5JVCBTSVNURU1BQUY1aHQ=", "chNFe":"35180611085679000185550000000190311751359291","tpAmb":"2","dhEvento":"2018-06-13T14:15:47-03:00","nSeqEvento":"1","xCorrecao":"Erro na placa do veiculo"}
+13/06/2018 14:15 (IT-DES01){"status":200,"motivo":"CC-e vinculada com sucesso","retEvento":{"cStat":135,"xMotivo":"Evento registrado e vinculado a NF-e","chNFe":"35180611085679000185550000000190311751359291","dhRegEvento":"2018-06-13T14:17:59-03:00","nProt":"135180011861877"}}
+15/06/2018 14:58 (IT-DES01)CARTA DE CORREÇÃO
+15/06/2018 14:58 (IT-DES01){"X-AUTH-TOKEN": "SVQgSU5JVCBTSVNURU1BQUY1aHQ=", "chNFe":"35180611085679000185550000000190821859619633","tpAmb":"2","dhEvento":"2018-06-15T14:58:55-03:00","nSeqEvento":"1","xCorrecao":"O nome "Bruno" do cliente está errado."}
+15/06/2018 14:58 (IT-DES01){"status":-400,"motivo":"Requisicao realizada com conteudo invalido. O parse do conteudo gerou a seguinte excecao: Error decoding json body: com.fasterxml.jackson.core.JsonParseException: Unexpected character ('B' (code 66)): was expecting comma to separate Object entries\n at [Source: akka.util.ByteIterator$ByteArrayIterator$$anon$1@7f117be; line: 1, column: 195]"}
+15/06/2018 14:59 (IT-DES01)CARTA DE CORREÇÃO
+15/06/2018 14:59 (IT-DES01){"X-AUTH-TOKEN": "SVQgSU5JVCBTSVNURU1BQUY1aHQ=", "chNFe":"35180611085679000185550000000190821859619633","tpAmb":"2","dhEvento":"2018-06-15T14:59:22-03:00","nSeqEvento":"1","xCorrecao":"O nome do cliente Bruno esta errado"}
+15/06/2018 14:59 (IT-DES01){"status":200,"motivo":"CC-e vinculada com sucesso","retEvento":{"cStat":135,"xMotivo":"Evento registrado e vinculado a NF-e","chNFe":"35180611085679000185550000000190821859619633","dhRegEvento":"2018-06-15T15:01:34-03:00","nProt":"135180011959379"}}
+18/06/2018 11:03 (IT-DES01)CARTA DE CORREÇÃO
+18/06/2018 11:03 (IT-DES01){"X-AUTH-TOKEN": "SVQgSU5JVCBTSVNURU1BQUY1aHQ=", "chNFe":"35180611085679000185550000000191141393334685","tpAmb":"2","dhEvento":"2018-06-18T11:03:42-03:00","nSeqEvento":"1","xCorrecao":"Erro na placa do veiculo"}
+18/06/2018 11:03 (IT-DES01){"status":200,"motivo":"CC-e vinculada com sucesso","retEvento":{"cStat":135,"xMotivo":"Evento registrado e vinculado a NF-e","chNFe":"35180611085679000185550000000191141393334685","dhRegEvento":"2018-06-18T11:05:56-03:00","nProt":"135180011982188"}}
+18/06/2018 11:10 (IT-DES01)CARTA DE CORREÇÃO
+18/06/2018 11:10 (IT-DES01){"X-AUTH-TOKEN": "SVQgSU5JVCBTSVNURU1BQUY1aHQ=", "chNFe":"35180611085679000185550000000191161702038117","tpAmb":"2","dhEvento":"2018-06-18T11:10:26-03:00","nSeqEvento":"1","xCorrecao":"Erro na placa de veiculo"}
+18/06/2018 11:10 (IT-DES01){"status":200,"motivo":"CC-e vinculada com sucesso","retEvento":{"cStat":135,"xMotivo":"Evento registrado e vinculado a NF-e","chNFe":"35180611085679000185550000000191161702038117","dhRegEvento":"2018-06-18T11:12:39-03:00","nProt":"135180011982389"}}
+18/06/2018 11:44 (IT-DES01)CARTA DE CORREÇÃO
+18/06/2018 11:44 (IT-DES01){"X-AUTH-TOKEN": "SVQgSU5JVCBTSVNURU1BQUY1aHQ=", "chNFe":"35180611085679000185550000000191181224560261","tpAmb":"2","dhEvento":"2018-06-18T11:44:36-03:00","nSeqEvento":"1","xCorrecao":"Erro na placa da transportadora"}
+18/06/2018 11:44 (IT-DES01){"status":200,"motivo":"CC-e vinculada com sucesso","retEvento":{"cStat":135,"xMotivo":"Evento registrado e vinculado a NF-e","chNFe":"35180611085679000185550000000191181224560261","dhRegEvento":"2018-06-18T11:46:49-03:00","nProt":"135180011983237"}}

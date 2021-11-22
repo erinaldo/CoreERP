@@ -1,0 +1,254 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6A76A843-F96D-499A-ABA1-C79C8DB7740A}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ValidateLib</RootNamespace>
+    <AssemblyName>ValidateLib</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>2013.08.13.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>
+    </ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="7zSharp, Version=1.0.3.0, Culture=neutral, PublicKeyToken=aa6a31abd3bf9e52, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\Program Files (x86)\7-ZipSharp\7zSharp.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AppLib, Version=0.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\..\..\AppLib\AppLib\bin\Debug\AppLib.dll</HintPath>
+    </Reference>
+    <Reference Include="OpenPop, Version=2.0.6.1102, Culture=neutral, PublicKeyToken=6bdb97f144b7efc8, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\OpenPop.NET.2.0.6.1102\lib\net40\OpenPop.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.Security" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ConsultaNFDest\consNFeDest_101.cs" />
+    <Compile Include="ConsultaNFDest\retConsNFeDest_101.cs" />
+    <Compile Include="DownloadNF\downloadNFe_100.cs" />
+    <Compile Include="DownloadNF\retDownloadNFe_100.cs" />
+    <Compile Include="ManidestaNFDest\envConfRecebto_100.cs" />
+    <Compile Include="ManidestaNFDest\procConfRecebto_100.cs" />
+    <Compile Include="NFe\CCe_v1_00.cs" />
+    <Compile Include="NFe\consReciNFe_310.cs" />
+    <Compile Include="NFe\consSitNFe_310.cs" />
+    <Compile Include="NFe\consStatServ_310.cs" />
+    <Compile Include="NFe\envEventoCancNFe_100.cs" />
+    <Compile Include="NFe\enviNFe_310.cs" />
+    <Compile Include="NFe\procNFe_310.cs" />
+    <Compile Include="NFe\retConsReciNFe_310.cs" />
+    <Compile Include="NFe\retConsSitNFe_310.cs" />
+    <Compile Include="NFe\retConsStatServ_310.cs" />
+    <Compile Include="NFe\retEnvEventoCancNFe_100.cs" />
+    <Compile Include="NFe\retEnviNFe_310.cs" />
+    <Compile Include="OBJETOS\ADI.cs" />
+    <Compile Include="OBJETOS\AssinaturaDigital.cs" />
+    <Compile Include="OBJETOS\AutoInc.cs" />
+    <Compile Include="OBJETOS\ConsNFeDest.cs" />
+    <Compile Include="OBJETOS\ConsNFeDestCanc.cs" />
+    <Compile Include="OBJETOS\ConsNFeDestCCe.cs" />
+    <Compile Include="OBJETOS\Contexto.cs" />
+    <Compile Include="OBJETOS\CTeDoc.cs" />
+    <Compile Include="OBJETOS\DI.cs" />
+    <Compile Include="OBJETOS\DownloadNF.cs" />
+    <Compile Include="OBJETOS\EmpresaParams.cs" />
+    <Compile Include="OBJETOS\EnvConfRecebtoParams.cs" />
+    <Compile Include="OBJETOS\EventoCanNFParams.cs" />
+    <Compile Include="OBJETOS\EventoCorrecaoNFParams.cs" />
+    <Compile Include="OBJETOS\InfRPS.cs" />
+    <Compile Include="OBJETOS\NFecobr.cs" />
+    <Compile Include="OBJETOS\NFeCOFINS.cs" />
+    <Compile Include="OBJETOS\NFeCOFINSAliq.cs" />
+    <Compile Include="OBJETOS\NFeCOFINSOutr.cs" />
+    <Compile Include="OBJETOS\NFeCOFINSQtde.cs" />
+    <Compile Include="OBJETOS\NFeCOFINSST.cs" />
+    <Compile Include="OBJETOS\NfeDifal.cs" />
+    <Compile Include="OBJETOS\NFedup.cs" />
+    <Compile Include="OBJETOS\NFeExporta.cs" />
+    <Compile Include="OBJETOS\NFefat.cs" />
+    <Compile Include="OBJETOS\NFeICMS90.cs" />
+    <Compile Include="OBJETOS\InboxParams.cs" />
+    <Compile Include="OBJETOS\NFeDest.cs" />
+    <Compile Include="OBJETOS\NFeDet.cs" />
+    <Compile Include="OBJETOS\NFeDoc.cs" />
+    <Compile Include="OBJETOS\NFeEmit.cs" />
+    <Compile Include="OBJETOS\NFeEntrega.cs" />
+    <Compile Include="OBJETOS\NFeICMS00.cs" />
+    <Compile Include="OBJETOS\NFeICMS10.cs" />
+    <Compile Include="OBJETOS\NFeICMS20.cs" />
+    <Compile Include="OBJETOS\NFeICMS30.cs" />
+    <Compile Include="OBJETOS\NFeICMS40.cs" />
+    <Compile Include="OBJETOS\NFeICMS51.cs" />
+    <Compile Include="OBJETOS\NFeICMS60.cs" />
+    <Compile Include="OBJETOS\NFeICMS70.cs" />
+    <Compile Include="OBJETOS\NFeICMSPart.cs" />
+    <Compile Include="OBJETOS\NFeICMSSN101.cs" />
+    <Compile Include="OBJETOS\NFeICMSSN102.cs" />
+    <Compile Include="OBJETOS\NFeICMSSN201.cs" />
+    <Compile Include="OBJETOS\NFeICMSSN202.cs" />
+    <Compile Include="OBJETOS\NFeICMSSN500.cs" />
+    <Compile Include="OBJETOS\NFeICMSSN900.cs" />
+    <Compile Include="OBJETOS\NFeICMSST.cs" />
+    <Compile Include="OBJETOS\NFeICMSTot.cs" />
+    <Compile Include="OBJETOS\NFeIde.cs" />
+    <Compile Include="OBJETOS\NFeII.cs" />
+    <Compile Include="OBJETOS\NFeImposto.cs" />
+    <Compile Include="OBJETOS\NFeinfAdic.cs" />
+    <Compile Include="OBJETOS\NFeIPI.cs" />
+    <Compile Include="OBJETOS\NFeIPINT.cs" />
+    <Compile Include="OBJETOS\NFeIPITrib.cs" />
+    <Compile Include="OBJETOS\NFeCOFINSNT.cs" />
+    <Compile Include="OBJETOS\NFeISSQN.cs" />
+    <Compile Include="OBJETOS\NFeISSQNtot.cs" />
+    <Compile Include="OBJETOS\NFelacres.cs" />
+    <Compile Include="OBJETOS\NFeobsCont.cs" />
+    <Compile Include="OBJETOS\NFeobsFisco.cs" />
+    <Compile Include="OBJETOS\NFePIS.cs" />
+    <Compile Include="OBJETOS\NFePISAliq.cs" />
+    <Compile Include="OBJETOS\NFePISNT.cs" />
+    <Compile Include="OBJETOS\NFePISOutr.cs" />
+    <Compile Include="OBJETOS\NFePISQtde.cs" />
+    <Compile Include="OBJETOS\NFePISST.cs" />
+    <Compile Include="OBJETOS\NFeProd.cs" />
+    <Compile Include="OBJETOS\NFereboque.cs" />
+    <Compile Include="OBJETOS\NFeRef.cs" />
+    <Compile Include="OBJETOS\NFeRetirada.cs" />
+    <Compile Include="OBJETOS\NFeretTransp.cs" />
+    <Compile Include="OBJETOS\NFeretTrib.cs" />
+    <Compile Include="OBJETOS\NFeveicTransp.cs" />
+    <Compile Include="OBJETOS\NFeTotal.cs" />
+    <Compile Include="OBJETOS\NFetransp.cs" />
+    <Compile Include="OBJETOS\NFetransporta.cs" />
+    <Compile Include="OBJETOS\NFevol.cs" />
+    <Compile Include="OBJETOS\NFSeDoc.cs" />
+    <Compile Include="OBJETOS\OutBoxParams.cs" />
+    <Compile Include="OBJETOS\ParamsAttribute.cs" />
+    <Compile Include="OBJETOS\ParamsBase.cs" />
+    <Compile Include="OBJETOS\ServiceParams.cs" />
+    <Compile Include="OBJETOS\Session.cs" />
+    <Compile Include="OBJETOS\DadosXML.cs" />
+    <Compile Include="OBJETOS\Eml.cs" />
+    <Compile Include="OBJETOS\Formato.cs" />
+    <Compile Include="OBJETOS\Log.cs" />
+    <Compile Include="OBJETOS\Certificado.cs" />
+    <Compile Include="OBJETOS\Descompactar.cs" />
+    <Compile Include="OBJETOS\EmailParams.cs" />
+    <Compile Include="OBJETOS\Importar.cs" />
+    <Compile Include="OBJETOS\PastaParams.cs" />
+    <Compile Include="OBJETOS\Assinatura.cs" />
+    <Compile Include="OBJETOS\FTPParams.cs" />
+    <Compile Include="OBJETOS\SucessoErro.cs" />
+    <Compile Include="OBJETOS\UFParams.cs" />
+    <Compile Include="OBJETOS\WebServiceMunParams.cs" />
+    <Compile Include="OBJETOS\WebServiceParams.cs" />
+    <Compile Include="OBJETOS_VALIDATESERVICE\FuncoesAuxiliares.cs" />
+    <Compile Include="OBJETOS_VALIDATESERVICE\Log.cs" />
+    <Compile Include="OBJETOS_VALIDATESERVICE\NFeSrv.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="OBJETOS\Util.cs" />
+    <None Include="app.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.4.5">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 4.5</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="CTe\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dll\7zSharp.dll" />
+    <Content Include="dll\OpenPop.dll" />
+    <Content Include="dll\ValidateLib.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

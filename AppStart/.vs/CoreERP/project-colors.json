@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cecf80b3-7e65-482c-a7ca-8215dd0521b6": {
+      "ProjectGuid": "cecf80b3-7e65-482c-a7ca-8215dd0521b6",
+      "DisplayName": "CoreERP",
+      "ColorIndex": 0
+    },
+    "e2cfb751-bdf1-4ef5-8809-c2a3e2b95710": {
+      "ProjectGuid": "e2cfb751-bdf1-4ef5-8809-c2a3e2b95710",
+      "DisplayName": "PS.Glb",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

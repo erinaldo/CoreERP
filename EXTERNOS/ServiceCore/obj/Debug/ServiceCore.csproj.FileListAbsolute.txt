@@ -1,0 +1,1562 @@
+C:\Users\Matheus\source\repos\ServiceCore\bin\Debug\ServiceCore.exe.config
+C:\Users\Matheus\source\repos\ServiceCore\bin\Debug\ServiceCore.exe
+C:\Users\Matheus\source\repos\ServiceCore\bin\Debug\ServiceCore.pdb
+C:\Users\Matheus\source\repos\ServiceCore\obj\Debug\ServiceCore.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\source\repos\ServiceCore\obj\Debug\ServiceCore.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\source\repos\ServiceCore\obj\Debug\ServiceCore.exe
+C:\Users\Matheus\source\repos\ServiceCore\obj\Debug\ServiceCore.pdb
+C:\Users\Matheus\source\repos\ServiceCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus\source\repos\ServiceCore\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Matheus\source\repos\ServiceCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe.config
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.pdb
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v17.2.Win.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Win.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Win.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.exe
+C:\Users\Matheus\Documents\GitHub\Core-ERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.pdb
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe.config
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.pdb
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v17.2.Win.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Charts.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v17.2.UI.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v17.2.UI.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.UI.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Win.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.CodeParser.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Images.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.Extensions.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v17.2.Core.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v17.2.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v17.2.Extensions.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v17.2.Extensions.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v17.2.UI.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v17.2.UI.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.Wizard.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v17.2.UI.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Win.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v17.2.Presets.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v17.2.Core.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v17.2.xml
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraEditors.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraBars.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPivotGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v17.2.Win.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraRichEdit.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.RichEdit.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v17.2.Extensions.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPrinting.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Data.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Data.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Data.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Data.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.PivotGrid.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Printing.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Office.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Sparkline.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraLayout.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraTreeList.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v17.2.UI.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v17.2.Wizard.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Xpo.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v17.2.Presets.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Map.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Pdf.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraNavBar.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraVerticalGrid.v17.2.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Diagram.v17.2.Core.resources.dll
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csprojResolveAssemblyReference.cache
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CoreCompileInputs.cache
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.exe
+C:\Users\Matheus\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.pdb
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe.config
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.pdb
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csprojAssemblyReference.cache
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CoreCompileInputs.cache
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CopyComplete
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.exe
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.pdb
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe.config
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.pdb
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.pdb
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CoreCompileInputs.cache
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CopyComplete
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.exe
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.pdb
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.CodeParser.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Images.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\AppLib.pdb
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll.config
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.CodeParser.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Images.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\AppLib.pdb
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll.config
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Win.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Win.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Win.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Win.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+C:\Users\Fabio\Documents\GitHub\Core-ERP-App\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe.config
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.pdb
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.CodeParser.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Images.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.pdb
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Win.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CoreCompileInputs.cache
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.exe
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.pdb
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.AssemblyReference.cache
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\AppLib.pdb
+D:\Users\João Pedro Luchiari\Desktop\IT INIT\git itinit\CoreERP\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll.config
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe.config
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.pdb
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.CodeParser.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Images.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\AppLib.pdb
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll.config
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.pdb
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csprojAssemblyReference.cache
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CoreCompileInputs.cache
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CopyComplete
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.exe
+E:\Arquivos Projetos\Projetos GitHub CST\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.pdb
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe.config
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.exe
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ServiceCore.pdb
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Charts.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.CodeParser.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Images.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\AppLib.pdb
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll.config
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.pdb
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraEditors.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraBars.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGrid.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPivotGrid.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Win.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraRichEdit.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraPrinting.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Data.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.PivotGrid.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Dashboard.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Printing.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Xpo.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Sparkline.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Office.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraLayout.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.DataAccess.v19.1.UI.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Wizard.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.UI.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraMap.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Win.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeMap.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Utils.v19.1.UI.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraTreeList.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.TreeMap.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Map.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraGauges.v19.1.Presets.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraNavBar.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.xml
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraEditors.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraBars.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraBars.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraBars.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraBars.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPivotGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Win.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraRichEdit.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.RichEdit.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraReports.v19.1.Extensions.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraPrinting.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Data.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Data.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Data.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Data.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.PivotGrid.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Dashboard.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Printing.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Xpo.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Xpo.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Xpo.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Xpo.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Sparkline.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Office.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Office.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Office.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Office.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraLayout.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.DataAccess.v19.1.UI.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraCharts.v19.1.Wizard.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Utils.v19.1.UI.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraTreeList.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Map.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Map.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Map.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Map.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraGauges.v19.1.Presets.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Pdf.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraNavBar.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.XtraVerticalGrid.v19.1.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\de\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.AssemblyReference.cache
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.SuggestedBindingRedirects.cache
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CoreCompileInputs.cache
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.csproj.CopyComplete
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.exe
+E:\Projetos\CoreERP\EXTERNOS\ServiceCore\obj\Debug\ServiceCore.pdb

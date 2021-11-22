@@ -1,0 +1,519 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DF0EE047-749D-4D36-A12F-D69AC4051B0D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Relatorios</RootNamespace>
+    <AssemblyName>Relatorios</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AppLib, Version=0.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AppLib\AppLib\bin\Debug\AppLib.dll</HintPath>
+    </Reference>
+    <Reference Include="BarcodeLib">
+      <HintPath>E:\PRODUTOS IT INIT\VERSAO OFICIAL\App Start\SETUP\BarcodeLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Data.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.PivotGrid.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Pdf.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v19.1.Export, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Sparkline.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v19.1.Wizard, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGauges.v19.1.Core, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v19.1.UI, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.CodeParser.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v19.1, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraReports.v19.1.Extensions, Version=19.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="canhoto.cs" />
+    <Compile Include="StReportCheque.cs" />
+    <Compile Include="StReportChequeApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportChequeApp.Designer.cs">
+      <DependentUpon>StReportChequeApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportConsolidadoGHPC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportConsolidadoGHPC.Designer.cs">
+      <DependentUpon>StReportConsolidadoGHPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportFaturamento.cs" />
+    <Compile Include="StReportFaturamentoApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportFaturamentoApp.Designer.cs">
+      <DependentUpon>StReportFaturamentoApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrCheque.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrCheque.Designer.cs">
+      <DependentUpon>XrCheque.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrConsolidadoGHPC.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrConsolidadoGHPC.Designer.cs">
+      <DependentUpon>XrConsolidadoGHPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrFaturamento.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrFaturamento.Designer.cs">
+      <DependentUpon>XrFaturamento.cs</DependentUpon>
+    </Compile>
+    <Compile Include="extratoBancario.cs" />
+    <Compile Include="parametro.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="StReportBalancete.cs" />
+    <Compile Include="StReportBalanceteApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportBalanceteApp.Designer.cs">
+      <DependentUpon>StReportBalanceteApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportComissaoInterna.cs" />
+    <Compile Include="StReportComissaoInternaApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportComissaoInternaApp.Designer.cs">
+      <DependentUpon>StReportComissaoInternaApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportComissaoRepresentante2010.cs" />
+    <Compile Include="StReportComissaoRepresentante2010App.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportComissaoRepresentante2010App.Designer.cs">
+      <DependentUpon>StReportComissaoRepresentante2010App.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportComissaoRepresentante2011.cs" />
+    <Compile Include="StReportComissaoRepresentante2011App.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportComissaoRepresentante2011App.Designer.cs">
+      <DependentUpon>StReportComissaoRepresentante2011App.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportConsolidado.cs" />
+    <Compile Include="StReportConsolidadoApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportConsolidadoApp.Designer.cs">
+      <DependentUpon>StReportConsolidadoApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportDanfePaisagem.cs" />
+    <Compile Include="StReportDanfePaisagemApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportDanfePaisagemApp.Designer.cs">
+      <DependentUpon>StReportDanfePaisagemApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportExtratoBancario.cs" />
+    <Compile Include="StReportExtratoBancarioApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportExtratoBancarioApp.Designer.cs">
+      <DependentUpon>StReportExtratoBancarioApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportFinanceiro.cs" />
+    <Compile Include="StReportFinanceiroApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportFinanceiroApp.Designer.cs">
+      <DependentUpon>StReportFinanceiroApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportLancamento.cs" />
+    <Compile Include="StReportLancamentoApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportLancamentoApp.Designer.cs">
+      <DependentUpon>StReportLancamentoApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrComissaoInterna.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrComissaoInterna.Designer.cs">
+      <DependentUpon>XrComissaoInterna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrComissaoRepresentante2011.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrComissaoRepresentante2011.Designer.cs">
+      <DependentUpon>XrComissaoRepresentante2011.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrConsolidado.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrConsolidado.Designer.cs">
+      <DependentUpon>XrConsolidado.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrDanfePaisagem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrDanfePaisagem.designer.cs">
+      <DependentUpon>XrDanfePaisagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportDactePaisagem.cs" />
+    <Compile Include="StReportDactePaisagemApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportDactePaisagemApp.Designer.cs">
+      <DependentUpon>StReportDactePaisagemApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrDactePaisagem.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrDactePaisagem.designer.cs">
+      <DependentUpon>XrDactePaisagem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportDacte.cs" />
+    <Compile Include="StReportDacteApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportDacteApp.Designer.cs">
+      <DependentUpon>StReportDacteApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrFinanceiro.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrFinanceiro.Designer.cs">
+      <DependentUpon>XrFinanceiro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrLancamentos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrLancamentos.Designer.cs">
+      <DependentUpon>XrLancamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrRelComponentesPrestacao.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrRelComponentesPrestacao.designer.cs">
+      <DependentUpon>XrRelComponentesPrestacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrDacte.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrDacte.designer.cs">
+      <DependentUpon>XrDacte.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportDanfe.cs" />
+    <Compile Include="StReportDanfeApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportDanfeApp.Designer.cs">
+      <DependentUpon>StReportDanfeApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrDanfe.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrDanfe.designer.cs">
+      <DependentUpon>XrDanfe.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportPedidoCompra.cs" />
+    <Compile Include="StReportPedidoCompraApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportPedidoCompraApp.Designer.cs">
+      <DependentUpon>StReportPedidoCompraApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrBalancete.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrBalancete.Designer.cs">
+      <DependentUpon>XrBalancete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrBorderoPagamentos.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrBorderoPagamentos.Designer.cs">
+      <DependentUpon>XrBorderoPagamentos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrComissaoRepresentante.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrComissaoRepresentante.Designer.cs">
+      <DependentUpon>XrComissaoRepresentante.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrExtratoBancario.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrExtratoBancario.Designer.cs">
+      <DependentUpon>XrExtratoBancario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrPedidoCompra.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrPedidoCompra.Designer.cs">
+      <DependentUpon>XrPedidoCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportOrcamentoCompra.cs" />
+    <Compile Include="StReportOrcamentoCompraApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportOrcamentoCompraApp.Designer.cs">
+      <DependentUpon>StReportOrcamentoCompraApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrOrcamentoCompra.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrOrcamentoCompra.Designer.cs">
+      <DependentUpon>XrOrcamentoCompra.cs</DependentUpon>
+    </Compile>
+    <Compile Include="item.cs" />
+    <Compile Include="StReportProgramacaoSemanal.cs" />
+    <Compile Include="StReportProgramacaoSemanalApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportProgramacaoSemanalApp.Designer.cs">
+      <DependentUpon>StReportProgramacaoSemanalApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrBoletoBancario.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrBoletoBancario.Designer.cs">
+      <DependentUpon>XrBoletoBancario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrPedidoVenda.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrPedidoVenda.Designer.cs">
+      <DependentUpon>XrPedidoVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StReportOrcamentoVenda.cs" />
+    <Compile Include="StReportOrcamentoVendaApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportOrcamentoVendaApp.Designer.cs">
+      <DependentUpon>StReportOrcamentoVendaApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StReportPedidoVenda.cs" />
+    <Compile Include="StReportPedidoVendaApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StReportPedidoVendaApp.Designer.cs">
+      <DependentUpon>StReportPedidoVendaApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrOrcamentoVenda.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrOrcamentoVenda.Designer.cs">
+      <DependentUpon>XrOrcamentoVenda.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrProgramacaoSemanal.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrProgramacaoSemanal.Designer.cs">
+      <DependentUpon>XrProgramacaoSemanal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="XrVendasRepresentante.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="XrVendasRepresentante.Designer.cs">
+      <DependentUpon>XrVendasRepresentante.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Properties\licenses.licx" />
+    <EmbeddedResource Include="StReportConsolidadoGHPC.resx">
+      <DependentUpon>StReportConsolidadoGHPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportFaturamentoApp.resx">
+      <DependentUpon>StReportFaturamentoApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrCheque.resx">
+      <DependentUpon>XrCheque.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrConsolidadoGHPC.resx">
+      <DependentUpon>XrConsolidadoGHPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrFaturamento.resx">
+      <DependentUpon>XrFaturamento.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportBalanceteApp.resx">
+      <DependentUpon>StReportBalanceteApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportComissaoInternaApp.resx">
+      <DependentUpon>StReportComissaoInternaApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportComissaoRepresentante2010App.resx">
+      <DependentUpon>StReportComissaoRepresentante2010App.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportComissaoRepresentante2011App.resx">
+      <DependentUpon>StReportComissaoRepresentante2011App.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportConsolidadoApp.resx">
+      <DependentUpon>StReportConsolidadoApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportExtratoBancarioApp.resx">
+      <DependentUpon>StReportExtratoBancarioApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportFinanceiroApp.resx">
+      <DependentUpon>StReportFinanceiroApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportLancamentoApp.resx">
+      <DependentUpon>StReportLancamentoApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrComissaoInterna.resx">
+      <DependentUpon>XrComissaoInterna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrComissaoRepresentante2011.resx">
+      <DependentUpon>XrComissaoRepresentante2011.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrConsolidado.resx">
+      <DependentUpon>XrConsolidado.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrDanfePaisagem.resx">
+      <DependentUpon>XrDanfePaisagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportDactePaisagemApp.resx">
+      <DependentUpon>StReportDactePaisagemApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrDactePaisagem.resx">
+      <DependentUpon>XrDactePaisagem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportDacteApp.resx">
+      <DependentUpon>StReportDacteApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrFinanceiro.resx">
+      <DependentUpon>XrFinanceiro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrLancamentos.resx">
+      <DependentUpon>XrLancamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrRelComponentesPrestacao.resx">
+      <DependentUpon>XrRelComponentesPrestacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrDacte.resx">
+      <DependentUpon>XrDacte.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportDanfeApp.resx">
+      <DependentUpon>StReportDanfeApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrDanfe.resx">
+      <DependentUpon>XrDanfe.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrBalancete.resx">
+      <DependentUpon>XrBalancete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrBorderoPagamentos.resx">
+      <DependentUpon>XrBorderoPagamentos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrComissaoRepresentante.resx">
+      <DependentUpon>XrComissaoRepresentante.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrExtratoBancario.resx">
+      <DependentUpon>XrExtratoBancario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrPedidoCompra.resx">
+      <DependentUpon>XrPedidoCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrOrcamentoCompra.resx">
+      <DependentUpon>XrOrcamentoCompra.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StReportProgramacaoSemanalApp.resx">
+      <DependentUpon>StReportProgramacaoSemanalApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrBoletoBancario.resx">
+      <DependentUpon>XrBoletoBancario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrPedidoVenda.resx">
+      <DependentUpon>XrPedidoVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrOrcamentoVenda.resx">
+      <DependentUpon>XrOrcamentoVenda.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrProgramacaoSemanal.resx">
+      <DependentUpon>XrProgramacaoSemanal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="XrVendasRepresentante.resx">
+      <DependentUpon>XrVendasRepresentante.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Resources\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dll\BarcodeLib.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\EXTERNOS\PS.Lib.WinForms\PS.Lib.WinForms.csproj">
+      <Project>{f4ab06f4-9b86-42e6-8d2b-800c1220dc92}</Project>
+      <Name>PS.Lib.WinForms</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\..\EXTERNOS\PS.Lib\PS.Lib.csproj">
+      <Project>{bd334765-1307-48bf-ad59-358b2baac93d}</Project>
+      <Name>PS.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

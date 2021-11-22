@@ -1,0 +1,456 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F4AB06F4-9B86-42E6-8D2B-800C1220DC92}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PS.Lib.WinForms</RootNamespace>
+    <AssemblyName>PS.Lib.WinForms</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AppLib">
+      <HintPath>..\..\..\..\Frameworks\App_Lib_Oficial\AppLib\bin\Debug\AppLib.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Pdf.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.RichEdit.v17.2.Export, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Printing.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Data.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Docs.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Office.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.RichEdit.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraBars.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Charts.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v17.2.Wizard, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraNavBar.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPivotGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraPrinting.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.PivotGrid.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Sparkline.v17.2.Core, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.Utils.v17.2.UI, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.CodeParser.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="DevExpress.XtraReports.v17.2.Extensions, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraRichEdit.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v17.2, Version=17.2.3.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="Microsoft.Office.Interop.Excel">
+      <HintPath>dll\Microsoft.Office.Interop.Excel.dll</HintPath>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Drawing.Design" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Anexo\AnexoServices.cs" />
+    <Compile Include="Anexo\FrmBaseAnexo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Anexo\FrmBaseAnexo.Designer.cs">
+      <DependentUpon>FrmBaseAnexo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormConfigurarColunas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormConfigurarColunas.Designer.cs">
+      <DependentUpon>FormConfigurarColunas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormParametro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormParametro.Designer.cs">
+      <DependentUpon>FormParametro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseApp.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseApp.Designer.cs">
+      <DependentUpon>FrmBaseApp.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseAppExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseAppExport.Designer.cs">
+      <DependentUpon>FrmBaseAppExport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseAppPrint.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseAppPrint.Designer.cs">
+      <DependentUpon>FrmBaseAppPrint.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseEditCompl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseEditCompl.designer.cs">
+      <DependentUpon>FrmBaseEditCompl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseLookupAutoComplete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseLookupAutoComplete.Designer.cs">
+      <DependentUpon>FrmBaseLookupAutoComplete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GUSUARIOVISAO.cs" />
+    <Compile Include="PSMaskedTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSMaskedTextBox.Designer.cs">
+      <DependentUpon>PSMaskedTextBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSMemoBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSMemoBox.Designer.cs">
+      <DependentUpon>PSMemoBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSPartApp.cs" />
+    <Compile Include="FrmBaseConfigurarColunas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseConfigurarColunas.designer.cs">
+      <DependentUpon>FrmBaseConfigurarColunas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseEdit.Designer.cs">
+      <DependentUpon>FrmBaseEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseFiltro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseFiltro.designer.cs">
+      <DependentUpon>FrmBaseFiltro.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseFiltroManutencao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseFiltroManutencao.designer.cs">
+      <DependentUpon>FrmBaseFiltroManutencao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseFiltroParam.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseFiltroParam.designer.cs">
+      <DependentUpon>FrmBaseFiltroParam.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseFiltroRenomear.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseFiltroRenomear.designer.cs">
+      <DependentUpon>FrmBaseFiltroRenomear.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseLookup.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseLookup.designer.cs">
+      <DependentUpon>FrmBaseLookup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBaseVisao.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBaseVisao.designer.cs">
+      <DependentUpon>FrmBaseVisao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MasterDetail.cs" />
+    <Compile Include="PastaDetail.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="PSBaseVisao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSBaseVisao.Designer.cs">
+      <DependentUpon>PSBaseVisao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSCheckBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSCheckBox.designer.cs">
+      <DependentUpon>PSCheckBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSComboBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSComboBox.designer.cs">
+      <DependentUpon>PSComboBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSDateBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSDateBox.designer.cs">
+      <DependentUpon>PSDateBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSImageBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSImageBox.Designer.cs">
+      <DependentUpon>PSImageBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSLookup.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSLookup.designer.cs">
+      <DependentUpon>PSLookup.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSMoedaBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSMoedaBox.Designer.cs">
+      <DependentUpon>PSMoedaBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PSPart.cs" />
+    <Compile Include="PSPartData.cs" />
+    <Compile Include="PSPartEditView.cs" />
+    <Compile Include="PSPartGridView.cs" />
+    <Compile Include="PSTextoBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="PSTextoBox.designer.cs">
+      <DependentUpon>PSTextoBox.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query\FrmBaseQueryEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\FrmBaseQueryEdit.Designer.cs">
+      <DependentUpon>FrmBaseQueryEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Query\PSPartQuery.cs" />
+    <Compile Include="Query\PSPartQueryApp.cs" />
+    <Compile Include="Query\PSPartQueryData.cs" />
+    <Compile Include="Query\PSPartQueryEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Query\PSPartQueryEdit.Designer.cs">
+      <DependentUpon>PSPartQueryEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Report\ReportDesignTool.cs" />
+    <Compile Include="Report\ReportUtil.cs" />
+    <Compile Include="StaticReport\FrmBaseAppStaticReport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaticReport\FrmBaseAppStaticReport.Designer.cs">
+      <DependentUpon>FrmBaseAppStaticReport.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaticReport\FrmBaseStaticReportPreview.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StaticReport\FrmBaseStaticReportPreview.Designer.cs">
+      <DependentUpon>FrmBaseStaticReportPreview.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StaticReport\PSPartStaticReport.cs" />
+    <Compile Include="WebBrowser\PSPartWebBrowser.cs" />
+    <Compile Include="WebBrowser\PSPartWebBrowserData.cs" />
+    <Compile Include="WebBrowser\PSPartWebBrowserEdit.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebBrowser\PSPartWebBrowserEdit.Designer.cs">
+      <DependentUpon>PSPartWebBrowserEdit.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WebBrowser\PSPartWebBrowserView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WebBrowser\PSPartWebBrowserView.Designer.cs">
+      <DependentUpon>PSPartWebBrowserView.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Anexo\FrmBaseAnexo.resx">
+      <DependentUpon>FrmBaseAnexo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormConfigurarColunas.resx">
+      <DependentUpon>FormConfigurarColunas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormParametro.resx">
+      <DependentUpon>FormParametro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseApp.resx">
+      <DependentUpon>FrmBaseApp.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseAppExport.resx">
+      <DependentUpon>FrmBaseAppExport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseAppPrint.resx">
+      <DependentUpon>FrmBaseAppPrint.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseConfigurarColunas.resx">
+      <DependentUpon>FrmBaseConfigurarColunas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseEdit.resx">
+      <DependentUpon>FrmBaseEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseEditCompl.resx">
+      <DependentUpon>FrmBaseEditCompl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseFiltro.resx">
+      <DependentUpon>FrmBaseFiltro.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseFiltroManutencao.resx">
+      <DependentUpon>FrmBaseFiltroManutencao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseFiltroParam.resx">
+      <DependentUpon>FrmBaseFiltroParam.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseFiltroRenomear.resx">
+      <DependentUpon>FrmBaseFiltroRenomear.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseLookup.resx">
+      <DependentUpon>FrmBaseLookup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseLookupAutoComplete.resx">
+      <DependentUpon>FrmBaseLookupAutoComplete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBaseVisao.resx">
+      <DependentUpon>FrmBaseVisao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSBaseVisao.resx">
+      <DependentUpon>PSBaseVisao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSCheckBox.resx">
+      <DependentUpon>PSCheckBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSComboBox.resx">
+      <DependentUpon>PSComboBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSDateBox.resx">
+      <DependentUpon>PSDateBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSImageBox.resx">
+      <DependentUpon>PSImageBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSLookup.resx">
+      <DependentUpon>PSLookup.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSMaskedTextBox.resx">
+      <DependentUpon>PSMaskedTextBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSMemoBox.resx">
+      <DependentUpon>PSMemoBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSMoedaBox.resx">
+      <DependentUpon>PSMoedaBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PSTextoBox.resx">
+      <DependentUpon>PSTextoBox.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query\FrmBaseQueryEdit.resx">
+      <DependentUpon>FrmBaseQueryEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Query\PSPartQueryEdit.resx">
+      <DependentUpon>PSPartQueryEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaticReport\FrmBaseAppStaticReport.resx">
+      <DependentUpon>FrmBaseAppStaticReport.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StaticReport\FrmBaseStaticReportPreview.resx">
+      <DependentUpon>FrmBaseStaticReportPreview.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebBrowser\PSPartWebBrowserEdit.resx">
+      <DependentUpon>PSPartWebBrowserEdit.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="WebBrowser\PSPartWebBrowserView.resx">
+      <DependentUpon>PSPartWebBrowserView.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\temp.xlsx" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anexo_document.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anexo_image.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anexo_other.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\anexo_video.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\PS.Lib\PS.Lib.csproj">
+      <Project>{bd334765-1307-48bf-ad59-358b2baac93d}</Project>
+      <Name>PS.Lib</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dll\Microsoft.Office.Interop.Excel.dll" />
+    <Content Include="dll\Microsoft.Office.Interop.Graph.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

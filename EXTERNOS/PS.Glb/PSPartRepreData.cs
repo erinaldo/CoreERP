@@ -1,0 +1,39 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Text;
+
+namespace PS.Glb
+{
+    public class PSPartRepreData: PS.Lib.WinForms.PSPartData
+    {
+        public override string ReadView()
+        {
+            return @"SELECT CODEMPRESA,
+CODREPRE,
+NOME,
+NOMEFANTASIA,
+CGCCPF,
+CONVERT(BIT, ATIVO) ATIVO,
+CEP,
+CODTIPORUA,
+RUA,
+NUMERO,
+COMPLEMENTO,
+CODTIPOBAIRRO,
+BAIRRO,
+CODCIDADE,
+(SELECT NOME FROM GCIDADE WHERE CODETD = VREPRE.CODETD AND CODCIDADE = VREPRE.CODCIDADE) CCIDADE,
+CODETD,
+CODPAIS,
+TELEFONE,
+TELCELULAR,
+TELFAX,
+CONTATO,
+HOMEPAGE,
+EMAIL,
+INSCRICAOESTADUAL,
+PRCOMISSAO
+FROM VREPRE WHERE ";
+        }
+    }
+}

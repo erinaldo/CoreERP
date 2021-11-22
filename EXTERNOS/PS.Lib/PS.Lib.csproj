@@ -1,0 +1,120 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{BD334765-1307-48BF-AD59-358B2BAAC93D}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PS.Lib</RootNamespace>
+    <AssemblyName>PS.Lib</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AppLib, Version=0.0.0.3, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\..\AppLib\AppLib\bin\Debug\AppLib.dll</HintPath>
+    </Reference>
+    <Reference Include="LumiSoft.Net">
+      <HintPath>lib\LumiSoft.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="SevenZipLib, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>lib\SevenZipLib.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Numerics" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.XML" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Alias.cs" />
+    <Compile Include="AliasList.cs" />
+    <Compile Include="AppAccess.cs" />
+    <Compile Include="Arquivo.cs" />
+    <Compile Include="Controle.cs" />
+    <Compile Include="CustomDataColumn.cs" />
+    <Compile Include="DataGridColumnCondition.cs" />
+    <Compile Include="DataGridColumnType.cs" />
+    <Compile Include="Email.cs" />
+    <Compile Include="ExportFileType.cs" />
+    <Compile Include="FolderType.cs" />
+    <Compile Include="FormRowState.cs" />
+    <Compile Include="ImageProperties.cs" />
+    <Compile Include="FilterCondition.cs" />
+    <Compile Include="Constantes.cs" />
+    <Compile Include="Contexto.cs" />
+    <Compile Include="Criptografia.cs" />
+    <Compile Include="DataField.cs" />
+    <Compile Include="Data\DBS.cs" />
+    <Compile Include="Data\IProvider.cs" />
+    <Compile Include="Data\OleProvider.cs" />
+    <Compile Include="Data\SqlProvider.cs" />
+    <Compile Include="Data\StringConnBuilder.cs" />
+    <Compile Include="Empresa.cs" />
+    <Compile Include="Filter.cs" />
+    <Compile Include="Global.cs" />
+    <Compile Include="Interpretador.cs" />
+    <Compile Include="Login.cs" />
+    <Compile Include="LookupEventArgs.cs" />
+    <Compile Include="ComboBoxItem.cs" />
+    <Compile Include="PSMemoryManager.cs" />
+    <Compile Include="PSDispose.cs" />
+    <Compile Include="PSFilter.cs" />
+    <Compile Include="PSInstance.cs" />
+    <Compile Include="PSMessageBox.cs" />
+    <Compile Include="PSProcess.cs" />
+    <Compile Include="PSProcessLog.cs" />
+    <Compile Include="PSVersion.cs" />
+    <Compile Include="Security.cs" />
+    <Compile Include="SelectType.cs" />
+    <Compile Include="Utils.cs" />
+    <Compile Include="Valida.cs" />
+    <Compile Include="WebBrowser.cs" />
+    <Compile Include="XMLParse.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Session.cs" />
+    <Compile Include="Zip.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="dll\LumiSoft.Net.dll" />
+    <Content Include="dll\SevenZipLib.dll" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
