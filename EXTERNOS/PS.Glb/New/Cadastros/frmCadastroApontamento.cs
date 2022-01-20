@@ -90,7 +90,7 @@ namespace PS.Glb.New.Cadastros
             try
             {
                 DataRow row1 = gridView1.GetDataRow(Convert.ToInt32(gridView1.GetSelectedRows().GetValue(0).ToString()));
-                if (MessageBox.Show("Deseja escluir o registro selecionado?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
+                if (MessageBox.Show("Deseja excluir o registro selecionado?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Question) == DialogResult.Yes)
                 {
                     sql = String.Format(@"delete from AAPONTAMENTOTAREFA where IDAPONTAMENTOTAREFA = '{0}'", row1["IDAPONTAMENTOTAREFA"].ToString());
                     MetodosSQL.ExecQuery(sql);
@@ -517,7 +517,7 @@ namespace PS.Glb.New.Cadastros
 
                 // Verifica os minutos do apontamento
 
-                if (inicio.Minute > 0)
+                if (inicio.Minute > termino.Minute)
                 {
                     minutosApontamento = inicio.Minute - termino.Minute;
                 }
