@@ -525,11 +525,11 @@ namespace PS.Glb.New.Cadastros
                 {
                     minutosApontamento = termino.Minute - inicio.Minute;
                 }
-
+                
                 if (minutosApontamento > 0)
                 {
-                    tempoApontamento = termino - inicio;
-
+                    tempoApontamento = ((termino - inicio));
+                    tempoApontamento = (DateTime.Parse(tempoApontamento.ToString()) - abono);
                     tempoTotalApontamento = new DateTime(dataApontamento.Year, dataApontamento.Month, dataApontamento.Day, tempoApontamento.Hours, tempoApontamento.Minutes, 0);
                 }
                 else
