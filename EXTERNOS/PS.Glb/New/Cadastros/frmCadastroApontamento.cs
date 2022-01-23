@@ -29,6 +29,8 @@ namespace PS.Glb.New.Cadastros
         DateTime? data = null;
 
         TimeSpan diferencaTempoApontamento;
+        TimeSpan convertRecebernegativo;
+
 
         #endregion
 
@@ -423,7 +425,19 @@ namespace PS.Glb.New.Cadastros
 
                         int minutos = GetDiferencaMinutos(idApontamento);
 
-                        tsDdiferenca = tempoTotalApontamento - tempoApontado;
+                        if (tempoTotalApontamento < tempoApontado)
+                        {
+                            convertRecebernegativo = tempoApontado - tempoTotalApontamento;
+                            tsDdiferenca = convertRecebernegativo;
+                        }
+                        else
+                        {
+                            tsDdiferenca = tempoTotalApontamento - tempoApontado;
+
+                        }
+
+                        //tsDdiferenca = tempoTotalApontamento - tempoApontado;
+
                         diferencaTempoApontamento = tsDdiferenca;
 
                         teDiferencas.EditValue = tsDdiferenca;                       
@@ -570,7 +584,14 @@ namespace PS.Glb.New.Cadastros
                 DateTime termino = Convert.ToDateTime(dtApontamento.Rows[0]["TERMINO"]);
                 DateTime inicio = Convert.ToDateTime(dtApontamento.Rows[0]["INICIO"]);
 
-                diferencaMinutos = termino.Minute - inicio.Minute;
+                if (inicio.Minute > termino.Minute)
+                {
+                    diferencaMinutos = inicio.Minute - termino.Minute;
+                }
+                else
+                {
+                    diferencaMinutos = termino.Minute - inicio.Minute;
+                }
             }
 
             return diferencaMinutos;
@@ -620,7 +641,8 @@ namespace PS.Glb.New.Cadastros
                                                  AP.IDSTATUSAPONTAMENTO,
                                                  convert(varchar(10), AP.INICIO, 108) as 'INICIO', 
 	                                             convert(varchar(10), AP.TERMINO, 108) as 'TERMINO', 
-	                                             convert(varchar(10), AP.ABONO, 108) as 'ABONO'
+	                                             convert(varchar(10), AP.ABONO, 108) as 'ABONO',
+                                                 CONVERT(varchar(10), ap.TOTALHORAS, 108) as 'TOTALHORAS'
                                           from AAPONTAMENTO AP
 
                                           inner join AUNIDADE AU
@@ -666,6 +688,11 @@ namespace PS.Glb.New.Cadastros
 
                     if (!String.IsNullOrWhiteSpace(MetodosSQL.GetField(sql, "ABONO")))
                         teAbono.EditValue = Convert.ToDateTime(MetodosSQL.GetField(sql, "ABONO"));
+
+
+                    if (!String.IsNullOrEmpty(MetodosSQL.GetField(sql, "TOTALHORAS")))
+                        teTotalHoras.EditValue = Convert.ToDateTime(MetodosSQL.GetField(sql, "TOTALHORAS"));
+               
 
                     sql = String.Format(@"select * from GUSUARIO where CODUSUARIO = '{0}'", campoLookupUSUARIOCONSULTOR.textBoxCODIGO.Text);
                     campoLookupUSUARIOCONSULTOR.textBoxDESCRICAO.Text = MetodosSQL.GetField(sql, "NOME");
@@ -814,6 +841,7 @@ namespace PS.Glb.New.Cadastros
                     {
                         MessageBox.Show("O apontamento não será encerrado pois existe uma diferença de horas.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
                         StatusApontamento = "0";
+                        Salvar(sair);
                         return;
                     }
                     else
