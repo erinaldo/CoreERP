@@ -398,6 +398,8 @@ namespace PS.Glb.New.Cadastros
                 return false;
             }
 
+            CalculaData();
+
             return true;
         }
 

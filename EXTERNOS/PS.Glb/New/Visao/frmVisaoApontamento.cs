@@ -86,7 +86,7 @@ namespace PS.Glb.New.Visao
                 frm.StatusApontamento = row1["AAPONTAMENTO.IDSTATUSAPONTAMENTO"].ToString();
                 frm.ShowDialog();
                 AtualizarColuna(row1);
-                //CarregaGrid(Condicao);
+                CarregaGrid(Condicao);
             }
             catch (Exception ex)
             {
