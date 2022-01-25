@@ -527,9 +527,12 @@ namespace PS.Glb.New.Cadastros
 
                 data = dataApontamento;
 
-                DateTime termino = Convert.ToDateTime(dtApontamento.Rows[0]["TERMINO"]);
-                DateTime inicio = Convert.ToDateTime(dtApontamento.Rows[0]["INICIO"]);
-                DateTime abono = Convert.ToDateTime(dtApontamento.Rows[0]["ABONO"]);
+                //DateTime termino = Convert.ToDateTime(dtApontamento.Rows[0]["TERMINO"]);
+                DateTime termino = Convert.ToDateTime(teTermino.EditValue);
+                //DateTime inicio = Convert.ToDateTime(dtApontamento.Rows[0]["INICIO"]);
+                DateTime inicio = Convert.ToDateTime(teInicio.EditValue);
+                //DateTime abono = Convert.ToDateTime(dtApontamento.Rows[0]["ABONO"]);
+                DateTime abono = Convert.ToDateTime(teAbono.EditValue);
 
                 // Verifica os minutos do apontamento
 
