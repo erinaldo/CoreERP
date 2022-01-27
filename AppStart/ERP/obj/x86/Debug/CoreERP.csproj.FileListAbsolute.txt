@@ -4204,8 +4204,6 @@ C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\stdole.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.XtraDialogs.v19.1.dll
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Microsoft.Windows.Design.Interaction.dll
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Microsoft.Windows.Design.Extensibility.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Xpf.Core.v19.1.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Mvvm.v19.1.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.dll
@@ -4214,7 +4212,6 @@ C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Xpo
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.XtraGauges.v19.1.Core.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.DataAccess.v19.1.UI.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Microsoft.ReportViewer.Common.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\BarcodeLib.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Pdf.v19.1.Drawing.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\OpenPop.dll
@@ -4238,8 +4235,6 @@ C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\PS.Glb.dll.con
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\PS.Lib.WinForms.pdb
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\PS.Lib.pdb
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\ITGProducao.pdb
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\AppLib.pdb
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\AppLib.dll.config
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Pdf.v19.1.Core.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Office.v19.1.Core.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.RichEdit.v19.1.Core.xml
@@ -4257,8 +4252,6 @@ C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Spa
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Utils.v19.1.UI.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.XtraReports.v19.1.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.XtraReports.v19.1.Extensions.xml
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DllCustomizada.pdb
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Microsoft.ReportViewer.WinForms.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Relatorios.pdb
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\PS.Validate.Services.pdb
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\PS.Validate.Services.dll.config
@@ -4275,8 +4268,6 @@ C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Das
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.XtraLayout.v19.1.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Microsoft.VisualStudio.Designer.Interfaces.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.XtraDialogs.v19.1.xml
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Microsoft.Windows.Design.Interaction.xml
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\Microsoft.Windows.Design.Extensibility.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Xpf.Core.v19.1.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.Mvvm.v19.1.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ERP\bin\Debug\DevExpress.XtraVerticalGrid.v19.1.xml

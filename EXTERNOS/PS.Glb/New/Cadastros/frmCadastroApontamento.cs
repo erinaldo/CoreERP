@@ -516,7 +516,7 @@ namespace PS.Glb.New.Cadastros
             DateTime? tempoTotalApontamento = null;
             TimeSpan tempoApontamento;
 
-            int horasApontamento = 0;
+            TimeSpan horasApontamento;
             int minutosApontamento = 0;
 
             DataTable dtApontamento = AppLib.Context.poolConnection.Get("Start").ExecQuery(@"SELECT * FROM AAPONTAMENTO WHERE CODEMPRESA = ? AND IDAPONTAMENTO = ?", new object[] { AppLib.Context.Empresa, idApontamento });
@@ -554,11 +554,11 @@ namespace PS.Glb.New.Cadastros
                 else
                 {
                     // Realiza o cálculo para extrair as horas demandadas no apontamento
-                    horasApontamento = ((termino.Hour - inicio.Hour) - abono.Hour);
-
-                    tempoTotalApontamento = new DateTime(dataApontamento.Year, dataApontamento.Month, dataApontamento.Day, horasApontamento, minutosApontamento, 0);
+                    horasApontamento = (termino - inicio);
+                    horasApontamento = (DateTime.Parse(horasApontamento.ToString()) - abono);
+                    tempoTotalApontamento = new DateTime(dataApontamento.Year, dataApontamento.Month, dataApontamento.Day, horasApontamento.Hours,horasApontamento.Minutes, 0);
                 }        
-            }
+            }            
 
             return tempoTotalApontamento;
         }
@@ -597,7 +597,7 @@ namespace PS.Glb.New.Cadastros
                 {
                     diferencaMinutos = termino.Minute - inicio.Minute;
                 }
-            }
+            }            
 
             return diferencaMinutos;
         }
@@ -842,6 +842,7 @@ namespace PS.Glb.New.Cadastros
             {
                 if (sair)
                 {
+
                     if (diferencaTempoApontamento.Minutes > 0 || diferencaTempoApontamento.Hours > 0)
                     {
                         MessageBox.Show("O apontamento não será encerrado pois existe uma diferença de horas.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
@@ -873,8 +874,8 @@ namespace PS.Glb.New.Cadastros
                     {
                         if (diferencaTempoApontamento.Minutes > 0 || diferencaTempoApontamento.Hours > 0)
                         {
-                            MessageBox.Show("O apontamento não será encerrado pois existe uma diferença de horas.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
-                            StatusApontamento = "0";
+                            //MessageBox.Show("O apontamento não será encerrado pois existe uma diferença de horas.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Exclamation);
+                            //StatusApontamento = "0";
                             return;
                         }
 

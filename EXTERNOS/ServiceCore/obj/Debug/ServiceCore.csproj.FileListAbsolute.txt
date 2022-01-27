@@ -1606,8 +1606,6 @@ C:\Users\Fabio\Documents\GitHubCST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExp
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraCharts.v19.1.Extensions.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraDiagram.v19.1.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.Diagram.v19.1.Core.dll
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\AppLib.pdb
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\AppLib.dll.config
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.pdb
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\Newtonsoft.Json.xml
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\EXTERNOS\ServiceCore\bin\Debug\DevExpress.XtraReports.v19.1.xml

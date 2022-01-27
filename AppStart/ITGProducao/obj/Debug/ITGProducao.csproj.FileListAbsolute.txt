@@ -4738,7 +4738,6 @@ C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\bin\Debug\de\Dev
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\bin\Debug\es\DevExpress.Diagram.v19.1.Core.resources.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\bin\Debug\ja\DevExpress.Diagram.v19.1.Core.resources.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\bin\Debug\ru\DevExpress.Diagram.v19.1.Core.resources.dll
-C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\obj\Debug\ITGProducao.csprojAssemblyReference.cache
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\obj\Debug\ITGProducao.Controles.NewLookup.resources
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\obj\Debug\ITGProducao.Filtros.FrmFiltroCalendario.resources
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\obj\Debug\ITGProducao.Filtros.FrmFiltroCentroCusto.resources
@@ -4796,3 +4795,4 @@ C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\obj\Debug\ITGPro
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\obj\Debug\ITGProducao.csproj.CopyComplete
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\obj\Debug\ITGProducao.dll
 C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\obj\Debug\ITGProducao.pdb
+C:\Users\Fabio\Documents\GitHubCST\CoreERP\AppStart\ITGProducao\obj\Debug\ITGProducao.csprojAssemblyReference.cache
